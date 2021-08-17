@@ -125,6 +125,7 @@ hr {
 
 /** footer **/
 .footer {
+    position: relative;
     background-color: var(--primary-color);
     padding: 2rem 1rem;
     text-align: center;
