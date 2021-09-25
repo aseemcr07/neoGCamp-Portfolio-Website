@@ -150,3 +150,8 @@ hr {
 .fab {
     padding-top: 0.5rem;
 }
+
+/** Blogs **/
+.blog-subtitle {
+    color: var(--dark-grey);
+}
