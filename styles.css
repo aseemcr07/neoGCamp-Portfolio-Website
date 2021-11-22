@@ -15,7 +15,7 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    margin: 0px;
+    margin: auto;
 }
 
 hr {
@@ -69,6 +69,11 @@ hr {
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
+}
+
+.nav-text {
+    margin: auto;
+    max-width: 800px;
 }
 
 .navigation .nav-brand {
